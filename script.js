@@ -2,8 +2,8 @@
 
 const para = document.createElement('p');
 
-para.innerHTML = "This is a paragraph. Check it out";
+para.innerHTML = 'Check out my paragraph please!!';
 
 // Append to body:
 
-document.body.appendChild(para);
+document.getElementById('myDIV').appendChild(para);
