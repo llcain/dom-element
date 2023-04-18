@@ -2,3 +2,4 @@ Google - creating dom elements using document.create() - https://www.javascriptt
 Google - npm init -y - https://stackoverflow.com/questions/62725481/what-is-the-meaning-of-npm-init-y
 Google - what are suggested workflows in github - 
 https://www.javascripttutorial.net/dom/manipulating/create-a-dom-element/
+Google - meta tag
