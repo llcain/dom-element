@@ -9,6 +9,8 @@ h1 {
     color: rgb(139, 0, 0);
 }
 
-table {
+table, th, td {
     border: 2px solid black;
 }
+
+
