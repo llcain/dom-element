@@ -1,0 +1,14 @@
+body {
+    background-color: wheat;
+}
+
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 70px;
+    color: rgb(139, 0, 0);
+}
+
+table {
+    border: 2px solid black;
+}
