@@ -2,7 +2,7 @@
 
 const para = document.createElement('p');
 
-para.innerHTML = 'Check out my paragraph please!!';
+para.innerHTML = "chicken";
 
 // Append to body:
 
