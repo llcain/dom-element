@@ -4,3 +4,4 @@ Google - what are suggested workflows in github -
 https://www.javascripttutorial.net/dom/manipulating/create-a-dom-element/
 Google - meta tag
 how to create a element in javascript - https://www.w3schools.com/js/js_htmldom_nodes.asp
+Google - javascript function change button color - https://stackoverflow.com/questions/1819878/changing-button-color-programmatically

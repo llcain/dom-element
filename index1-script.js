@@ -11,3 +11,8 @@ element.addEventListener('click', myFunction);
 function myFunction() {
   document.getElementById('demo').innerHTML = "Chicken";
 }
+
+
+function changeColor() {
+  document.getElementById('btn').style.backgroundColor = 'green';
+}
