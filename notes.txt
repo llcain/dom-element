@@ -5,3 +5,5 @@ https://www.javascripttutorial.net/dom/manipulating/create-a-dom-element/
 Google - meta tag
 how to create a element in javascript - https://www.w3schools.com/js/js_htmldom_nodes.asp
 Google - javascript function change button color - https://stackoverflow.com/questions/1819878/changing-button-color-programmatically
+Google - create li element in javascript - https://www.w3schools.com/jsref/dom_obj_li.asp
+Google - append li to ul javascript - http://www.java2s.com/Tutorials/Javascript/Javascript_Element_How_to/UL/Create_new_LI_element_and_append_to_UL.htm
